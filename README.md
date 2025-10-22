@@ -4,7 +4,7 @@ Un juego clásico de 2048 implementado en HTML, CSS (Tailwind) y JavaScript vani
 
 ## 🎮 Jugar Ahora
 
-**[🕹️ JUGAR ONLINE](https://tu-usuario.github.io/2048/)**
+**[🕹️ JUGAR ONLINE](https://thedeivi10.github.io/2048/)**
 
 *Reemplaza `tu-usuario` con tu nombre de usuario de GitHub*
 
