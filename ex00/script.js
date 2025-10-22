@@ -3,7 +3,7 @@ let grid = createEmptyGrid();
 let score = 0;
 let best = 0;
 
-const WIN_TARGET = 16;
+const WIN_TARGET = 2048;
 let hasWon = false;
 let modalOpen = false;
 
